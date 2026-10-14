@@ -1,0 +1,41 @@
+body {
+    background-color: #FFE6F0;
+    color: black;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #FF69B4;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #C2185B;
+    text-align: center;
+}
+
+h3 {
+    color: #C2185B;
+    text-align: center;
+}
+
+h4 {
+    background-color: #FFC0CB;
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    text-align: center;
+}
+
+a {
+    color: #C2185B;
+}
+
+hr {
+    color: #FF69B4;
+}
